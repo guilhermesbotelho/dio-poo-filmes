@@ -1,0 +1,15 @@
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.csproj.AssemblyReference.cache
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.AssemblyInfo.cs
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\bin\Debug\net6.0\dio-poo-filmes.exe
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\bin\Debug\net6.0\dio-poo-filmes.deps.json
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\bin\Debug\net6.0\dio-poo-filmes.runtimeconfig.json
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\bin\Debug\net6.0\dio-poo-filmes.dll
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\bin\Debug\net6.0\dio-poo-filmes.pdb
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.dll
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\refint\dio-poo-filmes.dll
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.pdb
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\dio-poo-filmes.genruntimeconfig.cache
+D:\OneDrive\Documentos\DIO\dio-poo-filmes\dio-poo-filmes\obj\Debug\net6.0\ref\dio-poo-filmes.dll
