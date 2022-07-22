@@ -43,6 +43,11 @@ namespace dio_poo_filmes
             return this.Id;
         }
 
+        public bool getDeleted()
+        {
+            return this.Deleted;
+        }
+
         public void Delet(){
             this.Deleted = true;
         }

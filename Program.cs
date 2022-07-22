@@ -51,7 +51,12 @@ internal class Program
         }
         foreach(var serie in list)
         {
-            Console.WriteLine("#Id: {0}: - {1}", serie.getId(), serie.getTittle());
+            var deleted = serie.getDeleted();
+            if(!deleted)
+            {
+                Console.WriteLine("#Id: {0}: - {1}", serie.getId(), serie.getTittle());
+            }
+            
         }
     }
 
